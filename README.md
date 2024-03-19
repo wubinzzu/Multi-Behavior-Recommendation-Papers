@@ -16,7 +16,7 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 - `WWW(2023)`  Denoising and Prompt-Tuning for Multi-Behavior Recommendation.  **[GNN]**  **[[PDF](https://arxiv.org/pdf/2302.05862.pdf)]**  **[[code](https://github.com/zc-97/DPT)]** 
 
-- `WWW(2023)`  Multi-Behavior Recommendation with Cascading Graph Convolution Networks.  **[CF+GCN]**  **[[PDF](http://export.arxiv.org/pdf/2303.15720)]**  **[[code](https://github.com/SS-00-SS/MBCGCN)]** 
+- `WWW(2023)`  Multi-Behavior Recommendation with Cascading Graph Convolution Networks.  **[GCN]**  **[[PDF](http://export.arxiv.org/pdf/2303.15720)]**  **[[code](https://github.com/SS-00-SS/MBCGCN)]** 
 
 - `TKDE(2023)`  Multi-Behavior Sequential Recommendation with Temporal Graph Transformer.  **[GNN+Transformer]**  **[[PDF](https://arxiv.org/pdf/2206.02687.pdf)]**  **[[code](https://github.com/akaxlh/TGT)]** 
 
@@ -70,7 +70,7 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 - `ICDM(2021)`  Composition-Enhanced Graph Collaborative Filtering for Multi-behavior Recommendation.  **[GCF]**  **[PDF]**  **[code]** 
 
-- `TKDE(2021)`  Learning to Recommend With Multiple Cascading Behaviors.  **[CF]**  **[[PDF](https://fi.ee.tsinghua.edu.cn/~gaochen/papers/TKDE2019-NMTR.pdf)]**  **[[code](https:// github.com/fiblab)]** 
+- `TKDE(2021)`  Learning to Recommend With Multiple Cascading Behaviors.  **[CF]**  **[[PDF](https://fi.ee.tsinghua.edu.cn/~gaochen/papers/TKDE2019-NMTR.pdf)]**  **[[code](https://github.com/fiblab)]** 
 
 - `ICDE(2021)`  Sequential Recommendation on Dynamic Heterogeneous Information Network.  **[GNN]**
 
