@@ -40,7 +40,9 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 - `AAAI(2023)`  Dynamic Multi-Behavior Sequence Modeling for Next Item Recommendation.  **[RNN]**  **[[PDF](https://arxiv.org/pdf/2301.12105.pdf)]** 
 
-- `RecSys(2023)`  Multi-Relational Contrastive Learning for Recommendation.  **[CL]**  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3604915.3608807)]**  **[[code](https://github.com/HKUDS/RCL)]** 
+- `RecSys(2023)`  Multi-Relational Contrastive Learning for Recommendation.  **[CL]**  **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3604915.3608807)]**  **[[code](https://github.com/HKUDS/RCL)]**
+
+- `DASFAA(2022)`  Multi-view Multi-behavior Contrastive Learning in Recommendation.  **[CL]**  **[[PDF](https://browse.arxiv.org/pdf/2203.10576)]**  **[[code](https://github.com/wyqing20/MMCLR)]**
 
 - `WSDM(2022)`  Contrastive Meta Learning with Behavior Multiplicity for Recommendation.  **[CF+GNN]**  **[[PDF](https://arxiv.org/pdf/2202.08523.pdf)]**  **[[code](https://github.com/weiwei1206/CML.git)]** 
 
