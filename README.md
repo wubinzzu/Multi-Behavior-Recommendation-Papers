@@ -8,6 +8,32 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 #### Paper List
 
+- `arXiv (2025)`HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation. [[PDF\]](https://arxiv.org/pdf/2412.14476), [[Code\]](https://github.com/marqu22/HEC-GCN)
+- `KDD (2025)`Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation **[Multi-Behavior + CL]**.[[PDF\]](https://arxiv.org/pdf/2502.02232), [[Code\]](https://github.com/1918190/COPF)
+- `WWW (2025)`EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration **[LLM + CL]**[[PDF]](https://arxiv.org/pdf/2502.14735)
+- `arXiv (2025)` Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**[LLM]** [[PDF](https://arxiv.org/pdf/2503.04162)]
+- `ICLR (2024)` SUBER: An RL Environment with Simulated Human Behavior for Recommender Systems. [[PDF](https://arxiv.org/pdf/2406.01631)] [[Code](https://github.com/SUBER-Team/SUBER)]
+- `SIGIR(2024)` Behavior Pattern Mining-based Multi-Behavior Recommendation. **[Pattern Mining]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657973)]** **[[code](https://github.com/rookitkitlee/BPMR)]**
+- `SIGIR(2024)` UniSAR: Modeling User Transition Behaviors between Search and Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657811)]** [[Code\]](https://github.com/TengShi-RUC/UniSAR)
+- `SIGIR(2024)` Behavior-Contextualized Item Preference Modeling for Multi-Behavior Recommendation. **[GCN]** **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657696)]** **[[code](https://github.com/MingshiYan/BIPN)]**
+- `SIGIR(2024)` A Generic Behavior-Aware Data Augmentation Framework for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657682)]** **[[code](https://github.com/XiaoJingC/MBASR)]**
+- `SIGIR (2024)` Behavior Alignment: A New Perspective of Evaluating LLM-based Conversational Recommendation Systems. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657924)]
+- `SIGIR (2024)` Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657974)]
+- `WSDM(2024)` Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635857)]**
+- `WSDM(2024)` User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635762)]**
+- `WWW(2024)` Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645380)]** [[Code\]](https://github.com/huschbsd/END4REC)
+- `WWW(2024)`ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation.**[DA]** [[PDF\]](https://arxiv.org/pdf/2308.11131.pdf) [[Code\]](https://github.com/LaVieEnRose365/ReLLa)]
+- `www (2024)` Recommender Transformers with Behavior Pathways. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645528)]
+- `CIKM (2024)` Decoupled Behavior-based Contrastive Recommendation. **[Graph + CL]** [[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679636) [[Code\]](https://github.com/Du-danger/DBCR)
+- `TKDE (2024)` Multi-behavior Hypergraph Contrastive Learning for Session-based Recommendation. **[Graph + CL]** [[PDF\]](https://ieeexplore.ieee.org/abstract/document/10816604)
+- `TKDE (2024)` Bilateral Multi-Behavior Modeling for Reciprocal Recommendation in Online Recruitment. **[CL]** [[PDF\]](https://ieeexplore.ieee.org/abstract/document/10521826/)
+- `TOIS (2024)` Contrastive Clustering Learning for Multi-Behavior Recommendation. [[PDF\]](https://dl.acm.org/doi/10.1145/3698192) [[Code\]](https://github.com/lanbiolab/MBRCC)
+- `KDD (2024)` Multi-Behavior Collaborative Filtering with Partial Order Graph Convolutional Networks.**[[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671569)]**
+- `KDD (2024)` Controllable Multi-Behavior Recommendation for In-Game Skins with Large Sequential Model. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3637528.3671572)]
+- `KDD (2024)` EAGER: Two-Stream Generative Recommender with Behavior-Semantic Collaboration. [[PDF\]](https://arxiv.org/pdf/2406.14017) [[Code](https://github.com/yewzz/EAGER)]
+- `arXiv (2024)` Intent-aware Recommendation via Disentangled Graph Contrastive Learning [[PDF](https://arxiv.org/abs/2403.03714)]
+- `arXiv (2024)` Disentangled Cascaded Graph Convolution Networks for Multi-Behavior Recommendation. **[Graph + CL]** [[PDF\]](https://arxiv.org/pdf/2404.11519.pdf) [[Code\]](https://github.com/JianhuaDongCS/Disen-CGCN)
+
 - `FCS(2023)`  BGNN_ Behavior-aware graph neural network for heterogeneous session-based recommendation.  **[GNN]**  **[[PDF](https://journal.hep.com.cn/fcs/EN/article/downloadArticleFile.do?attachType=PDF&id=33255)]** 
 
 - `WSDM(2023)`  Knowledge Enhancement for Contrastive Multi-Behavior Recommendation.  **[Contrastive Learning]**  **[[PDF](https://arxiv.org/pdf/2301.05403.pdf)]** 
