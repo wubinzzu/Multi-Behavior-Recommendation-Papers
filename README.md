@@ -8,9 +8,9 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 #### Paper List
 
-- `RecSys (2025)`Multi-Behavioral Sequential Recommendation. [[PDF\]](https://dl.acm.org/doi/10.1145/3640457.3688166), [[Code\]](https://github.com/Shereen-Elsayed/MBSRec)
-- `arXiv (2025)`HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation. [[PDF\]](https://arxiv.org/pdf/2412.14476), [[Code\]](https://github.com/marqu22/HEC-GCN)
-- `KDD (2025)`Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation **[Multi-Behavior + CL]**.[[PDF\]](https://arxiv.org/pdf/2502.02232), [[Code\]](https://github.com/1918190/COPF)
+- `RecSys (2025)`Multi-Behavioral Sequential Recommendation.**[Self-attention]** [[PDF]](https://dl.acm.org/doi/10.1145/3640457.3688166), [[Code]](https://github.com/Shereen-Elsayed/MBSRec)
+- `arXiv (2025)`HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation. [[PDF]](https://arxiv.org/pdf/2412.14476), [[Code]](https://github.com/marqu22/HEC-GCN)
+- `KDD (2025)`Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation **[Multi-Behavior + CL]**.[[PDF]](https://arxiv.org/pdf/2502.02232), [[Code\]](https://github.com/1918190/COPF)
 - `WWW (2025)`EAGER-LLM: Enhancing Large Language Models as Recommenders through Exogenous Behavior-Semantic Integration **[LLM + CL]**[[PDF]](https://arxiv.org/pdf/2502.14735)
 - `arXiv (2025)` Semantic Retrieval Augmented Contrastive Learning for Sequential Recommendation**[LLM]** [[PDF](https://arxiv.org/pdf/2503.04162)]
 - `ICLR (2024)` SUBER: An RL Environment with Simulated Human Behavior for Recommender Systems. [[PDF](https://arxiv.org/pdf/2406.01631)] [[Code](https://github.com/SUBER-Team/SUBER)]
@@ -22,8 +22,8 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 - `SIGIR (2024)` Breaking the Length Barrier: LLM-Enhanced CTR Prediction in Long Textual User Behaviors. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3626772.3657974)]
 - `WSDM(2024)` Global Heterogeneous Graph and Target Interest Denoising for Multi-behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635857)]**
 - `WSDM(2024)` User Behavior Enriched Temporal Knowledge Graph for Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3616855.3635762)]**
-- `WWW(2024)` Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645380)]** [[Code\]](https://github.com/huschbsd/END4REC)
-- `WWW(2024)`ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation.**[DA]** [[PDF\]](https://arxiv.org/pdf/2308.11131.pdf) [[Code\]](https://github.com/LaVieEnRose365/ReLLa)]
+- `WWW(2024)` Efficient Noise-Decoupling for Multi-Behavior Sequential Recommendation. **[[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645380)]** [[Code]](https://github.com/huschbsd/END4REC)
+- `WWW(2024)`ReLLa: Retrieval-enhanced Large Language Models for Lifelong Sequential Behavior Comprehension in Recommendation.**[DA]** [[PDF]](https://arxiv.org/pdf/2308.11131.pdf) [[Code\]](https://github.com/LaVieEnRose365/ReLLa)]
 - `www (2024)` Recommender Transformers with Behavior Pathways. [[PDF](https://dl.acm.org/doi/pdf/10.1145/3589334.3645528)]
 - `CIKM (2024)` Decoupled Behavior-based Contrastive Recommendation. **[Graph + CL]** [[PDF\]](https://dl.acm.org/doi/pdf/10.1145/3627673.3679636) [[Code\]](https://github.com/Du-danger/DBCR)
 - `TKDE (2024)` Multi-behavior Hypergraph Contrastive Learning for Session-based Recommendation. **[Graph + CL]** [[PDF\]](https://ieeexplore.ieee.org/abstract/document/10816604)
