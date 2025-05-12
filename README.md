@@ -8,6 +8,7 @@ This is a paper list for Multi-Behavior Recommendation，which also contains som
 
 #### Paper List
 
+- `arXiv (2025)`Multi-Behavior Recommender Systems: A Survey. [[PDF]](https://arxiv.org/pdf/2503.06963)
 - `RecSys (2025)`Multi-Behavioral Sequential Recommendation.**[Self-attention]** [[PDF]](https://dl.acm.org/doi/10.1145/3640457.3688166), [[Code]](https://github.com/Shereen-Elsayed/MBSRec)
 - `arXiv (2025)`HEC-GCN: Hypergraph Enhanced Cascading Graph Convolution Network for Multi-Behavior Recommendation. [[PDF]](https://arxiv.org/pdf/2412.14476), [[Code]](https://github.com/marqu22/HEC-GCN)
 - `KDD (2025)`Combinatorial Optimization Perspective based Framework for Multi-behavior Recommendation **[Multi-Behavior + CL]**.[[PDF]](https://arxiv.org/pdf/2502.02232), [[Code\]](https://github.com/1918190/COPF)
